@@ -5,12 +5,12 @@ int main ()
 {  int n = 10;
 
  // Prompt the user to input an integer for n
- cout << "How many times should I print?";
+ cout << "\nHow many times should I print?" << endl;
   
  cin >> n;
   
  // Define an int variable named i initialized to 1
-int i = 0;
+int i = 1;
  // Write a while loop that will loop as long as the value of i <= n
  while (i <= n ) 
  {

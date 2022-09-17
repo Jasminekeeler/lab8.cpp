@@ -5,7 +5,7 @@ int main ()
 {  int n = 10;
 
  // Prompt the user to input an integer for n
- cout << "How many times should I print?" << endl;
+ cout << "How many times should I print? " << endl;
   
  cin >> n;
   

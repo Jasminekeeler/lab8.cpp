@@ -10,7 +10,7 @@ int main ()
  cin >> n;
   
  // Define an int variable named i initialized to 1
-int i = 1;
+int i = 0;
  // Write a while loop that will loop as long as the value of i <= n
  while (i <= n ) 
  {
